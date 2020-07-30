@@ -18,7 +18,7 @@ social:
   name: Edition Template
   links:
       #- https://github.com/CloudCannon/edition-jekyll-template
-    - https://hyulim42.github.io/
+    - https://hyulim42.github.io/index.md
 
 # -----
 # Build
