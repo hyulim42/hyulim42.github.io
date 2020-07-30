@@ -1,7 +1,7 @@
 ---
 title: Ho
-category: hjkl
-order: 3
+category: asdf/hjkl
+order: 1
 ---
 
 Use ChatApp on all of your Android devices. Every version is supported.
